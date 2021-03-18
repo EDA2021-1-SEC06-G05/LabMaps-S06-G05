@@ -1,6 +1,7 @@
 Andres Camilo Llanos, 201716506, ac.llanos@uniandes.edu.co
 
 David Santiago Lopez Velez, 201814056, ds.lopezv@uniandes.edu.co
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
